@@ -9,7 +9,21 @@ Eu sou João Luís, sou um Programador Front End,atualmente estou aprendendo e c
 E iniciando o aprendizado em: <br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <br>
+ <br>
 
+  [![João Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=Jluis-Dev)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
+ <br>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jluis-Dev)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
+ <br>
+
+
+ 
 
 ## Connect witch me:
 
