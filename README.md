@@ -11,11 +11,11 @@ E iniciando o aprendizado em: <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
-<!--## Connect witch me:
+## Connect witch me:
 
-<a href="">
-
-</a> -->  
+<a href="https://www.linkedin.com/in/joao-luis-silva-473250140/?skipRedirect=true">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>   
 <!--
 **JLuis-Dev/JLuis-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
