@@ -27,7 +27,7 @@ E iniciando o aprendizado em: <br>
 
 ## Connect witch me:
 
-<a href="https://www.linkedin.com/in/joao-luis-silva-473250140/?skipRedirect=true">
+<a href="www.linkedin.com/in/joaoluis2405/?skipRedirect=true">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>   
 <!--
